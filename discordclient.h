@@ -2,9 +2,7 @@
 #define DISCORDCLIENT_H
 #include <string>
 #include <QJsonObject>
-#include <sleepy_discord/client.h>
-#include <sleepy_discord/sleepy_discord.h>
-class DiscordClient : public SleepyDiscord::DiscordClient
+class DiscordClient
 {
 public:
     DiscordClient();
