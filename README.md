@@ -1,5 +1,5 @@
 # EpicDiscord
-This project is not finished. It does not do anything right now. It is a skeleton.
+This project is not finished. It does not do anything right now. It is a skeleton. It does not even build as of right now.
 ## Goals
 - Lightweight, cross-platform Discord client
 - More efficient UI that sacrifices nice padding and flashy design for space and use efficiency
