@@ -1,0 +1,3 @@
+C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/websocketpp-download/CMakeFiles/websocketpp-download.dir
+C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/websocketpp-download/CMakeFiles/edit_cache.dir
+C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/websocketpp-download/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,65 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"deps/sleepy-discord/deps/cpr/cpr/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "cpr_autogen::@0bcff499c9643237ef88",
+	"isGeneratorProvided" : true,
+	"name" : "cpr_autogen",
+	"paths" : 
+	{
+		"build" : "deps/sleepy-discord/deps/cpr/cpr",
+		"source" : "deps/sleepy-discord/deps/cpr/cpr"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "out/build/x64-Debug (default)/deps/sleepy-discord/deps/cpr/cpr/CMakeFiles/cpr_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "out/build/x64-Debug (default)/deps/sleepy-discord/deps/cpr/cpr/CMakeFiles/cpr_autogen.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "out/build/x64-Debug (default)/deps/sleepy-discord/deps/cpr/cpr/cpr_autogen/timestamp.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

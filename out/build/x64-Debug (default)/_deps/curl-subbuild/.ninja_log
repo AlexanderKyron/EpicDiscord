@@ -1,0 +1,11 @@
+# ninja log v5
+0	255	638664612	curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir	3e16d666b929c914
+255	3461	638664615	curl-populate-prefix/src/curl-populate-stamp/curl-populate-download	40f0ad716b1587f7
+3462	3574	638664615	curl-populate-prefix/src/curl-populate-stamp/curl-populate-update	f7a4a5667dd40026
+3464	3577	638664615	curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch	43f4b06acc0ddd54
+3577	3657	638664615	curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure	1e7a59696a647316
+3657	3735	638664615	curl-populate-prefix/src/curl-populate-stamp/curl-populate-build	e2648b5a2ce24373
+3736	3813	638664615	curl-populate-prefix/src/curl-populate-stamp/curl-populate-install	77102e6f7416e8c6
+3813	3923	638664615	curl-populate-prefix/src/curl-populate-stamp/curl-populate-test	2c49967838a49419
+3923	4030	638664616	CMakeFiles/curl-populate-complete	171262f8c6846895
+3923	4030	638664616	curl-populate-prefix/src/curl-populate-stamp/curl-populate-done	171262f8c6846895

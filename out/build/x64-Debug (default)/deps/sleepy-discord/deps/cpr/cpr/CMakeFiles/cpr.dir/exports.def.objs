@@ -1,0 +1,15 @@
+deps\sleepy-discord\deps\cpr\cpr\CMakeFiles\cpr.dir\cpr_autogen\mocs_compilation.cpp.obj
+deps\sleepy-discord\deps\cpr\cpr\CMakeFiles\cpr.dir\auth.cpp.obj
+deps\sleepy-discord\deps\cpr\cpr\CMakeFiles\cpr.dir\cookies.cpp.obj
+deps\sleepy-discord\deps\cpr\cpr\CMakeFiles\cpr.dir\cprtypes.cpp.obj
+deps\sleepy-discord\deps\cpr\cpr\CMakeFiles\cpr.dir\curl_container.cpp.obj
+deps\sleepy-discord\deps\cpr\cpr\CMakeFiles\cpr.dir\curlholder.cpp.obj
+deps\sleepy-discord\deps\cpr\cpr\CMakeFiles\cpr.dir\error.cpp.obj
+deps\sleepy-discord\deps\cpr\cpr\CMakeFiles\cpr.dir\multipart.cpp.obj
+deps\sleepy-discord\deps\cpr\cpr\CMakeFiles\cpr.dir\parameters.cpp.obj
+deps\sleepy-discord\deps\cpr\cpr\CMakeFiles\cpr.dir\payload.cpp.obj
+deps\sleepy-discord\deps\cpr\cpr\CMakeFiles\cpr.dir\proxies.cpp.obj
+deps\sleepy-discord\deps\cpr\cpr\CMakeFiles\cpr.dir\session.cpp.obj
+deps\sleepy-discord\deps\cpr\cpr\CMakeFiles\cpr.dir\timeout.cpp.obj
+deps\sleepy-discord\deps\cpr\cpr\CMakeFiles\cpr.dir\unix_socket.cpp.obj
+deps\sleepy-discord\deps\cpr\cpr\CMakeFiles\cpr.dir\util.cpp.obj

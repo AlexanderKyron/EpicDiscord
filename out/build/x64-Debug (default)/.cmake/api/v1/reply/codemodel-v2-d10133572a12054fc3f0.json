@@ -1,0 +1,325 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				},
+				{
+					"build" : "deps/sleepy-discord",
+					"childIndexes" : 
+					[
+						2,
+						7,
+						9
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "deps/sleepy-discord"
+				},
+				{
+					"build" : "deps/sleepy-discord/deps/cpr",
+					"childIndexes" : 
+					[
+						3,
+						5,
+						6
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "deps/sleepy-discord/deps/cpr"
+				},
+				{
+					"build" : "_deps/curl-build",
+					"childIndexes" : 
+					[
+						4
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 3,
+					"source" : "out/build/x64-Debug (default)/_deps/curl-src",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "_deps/curl-build/lib",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 3,
+					"source" : "out/build/x64-Debug (default)/_deps/curl-src/lib",
+					"targetIndexes" : 
+					[
+						4,
+						5
+					]
+				},
+				{
+					"build" : "deps/sleepy-discord/deps/cpr/cpr",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 2,
+					"source" : "deps/sleepy-discord/deps/cpr/cpr",
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				},
+				{
+					"build" : "deps/sleepy-discord/deps/cpr/include",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 2,
+					"source" : "deps/sleepy-discord/deps/cpr/include"
+				},
+				{
+					"build" : "deps/sleepy-discord/deps/websocketpp",
+					"childIndexes" : 
+					[
+						8
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 4,
+					"source" : "deps/sleepy-discord/deps/websocketpp"
+				},
+				{
+					"build" : "deps/sleepy-discord/deps/websocketpp/websocketpp",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 7,
+					"projectIndex" : 4,
+					"source" : "deps/sleepy-discord/deps/websocketpp/websocketpp"
+				},
+				{
+					"build" : "deps/sleepy-discord/sleepy_discord",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "deps/sleepy-discord/sleepy_discord",
+					"targetIndexes" : 
+					[
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DiscordClient",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						2,
+						4
+					],
+					"directoryIndexes" : 
+					[
+						1,
+						9
+					],
+					"name" : "sleepy-discord",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						6,
+						7
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						3
+					],
+					"directoryIndexes" : 
+					[
+						2,
+						5,
+						6
+					],
+					"name" : "cpr",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3,
+						4
+					],
+					"name" : "CURL",
+					"parentIndex" : 2,
+					"targetIndexes" : 
+					[
+						4,
+						5,
+						8
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						7,
+						8
+					],
+					"name" : "websocketpp",
+					"parentIndex" : 1
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DiscordClient::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DiscordClient-Debug-65e6181a4942e0552c70.json",
+					"name" : "DiscordClient",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DiscordClient_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DiscordClient_autogen-Debug-2c3ddfab1fa1b772a28f.json",
+					"name" : "DiscordClient_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "cpr::@0bcff499c9643237ef88",
+					"jsonFile" : "target-cpr-Debug-aafd6064a79777ce446b.json",
+					"name" : "cpr",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "cpr_autogen::@0bcff499c9643237ef88",
+					"jsonFile" : "target-cpr_autogen-Debug-1d22bc6d8f34e4b517ba.json",
+					"name" : "cpr_autogen",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "libcurl::@7349aeacaff41deceb36",
+					"jsonFile" : "target-libcurl-Debug-b955e8f7d5784fd342bf.json",
+					"name" : "libcurl",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "libcurl_autogen::@7349aeacaff41deceb36",
+					"jsonFile" : "target-libcurl_autogen-Debug-948e1eaf84208b3a9ae7.json",
+					"name" : "libcurl_autogen",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "sleepy-discord::@46311d846c26576373bf",
+					"jsonFile" : "target-sleepy-discord-Debug-96f1c6a7b09d3f13974b.json",
+					"name" : "sleepy-discord",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "sleepy-discord_autogen::@46311d846c26576373bf",
+					"jsonFile" : "target-sleepy-discord_autogen-Debug-708c65f83bf65d3c0436.json",
+					"name" : "sleepy-discord_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "uninstall::@b95861b2ba384b5171eb",
+					"jsonFile" : "target-uninstall-Debug-c31077471b3036b334d1.json",
+					"name" : "uninstall",
+					"projectIndex" : 3
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)",
+		"source" : "C:/Users/xande/Documents/DiscordClient"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

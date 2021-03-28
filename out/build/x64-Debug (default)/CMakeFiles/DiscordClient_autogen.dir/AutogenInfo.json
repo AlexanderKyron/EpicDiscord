@@ -1,0 +1,98 @@
+{
+	"BUILD_DIR" : "C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/DiscordClient_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/xande/Documents/DiscordClient",
+	"CMAKE_EXECUTABLE" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe",
+	"CMAKE_SOURCE_DIR" : "C:/Users/xande/Documents/DiscordClient",
+	"DEP_FILE" : "C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/DiscordClient_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "DiscordClient_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"C:/Users/xande/Documents/DiscordClient/discordclient.h",
+			"MU",
+			"EWIEGA46WW/moc_discordclient.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/mainwindow.h",
+			"MU",
+			"EWIEGA46WW/moc_mainwindow.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/DiscordClient_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/DiscordClient_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"CURL_STATICLIB",
+		"EXISTENT_ASIO",
+		"EXISTENT_CPR",
+		"EXISTENT_WEBSOCKETPP",
+		"NONEXISTENT_OPUS",
+		"NONEXISTENT_SODIUM",
+		"NONEXISTENT_UWEBSOCKETS",
+		"NONEXISTENT_ZLIB_NG",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_WIDGETS_LIB",
+		"SLEEPY_DISCORD_CMAKE",
+		"UNICODE",
+		"WIN32",
+		"WIN64",
+		"_ENABLE_EXTENDED_ALIGNED_STORAGE",
+		"_UNICODE",
+		"_WIN64"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)",
+		"C:/Users/xande/Documents/DiscordClient",
+		"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/include",
+		"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/include",
+		"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/asio/asio/include",
+		"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/websocketpp",
+		"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/include",
+		"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/include",
+		"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-build/include/curl",
+		"C:/Qt6MSVC/6.0.3/msvc2019_64/include/QtCore",
+		"C:/Qt6MSVC/6.0.3/msvc2019_64/include",
+		"C:/Qt6MSVC/6.0.3/msvc2019_64/mkspecs/win32-msvc",
+		"C:/dev/vcpkg/installed/x64-windows/include",
+		"C:/Qt6MSVC/6.0.3/msvc2019_64/include/QtWidgets",
+		"C:/Qt6MSVC/6.0.3/msvc2019_64/include/QtGui"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : true,
+	"MOC_PREDEFS_CMD" : [],
+	"MOC_PREDEFS_FILE" : "",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/CMakeFiles/DiscordClient_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/Qt6MSVC/6.0.3/msvc2019_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "C:/Qt6MSVC/6.0.3/msvc2019_64/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 0,
+	"SETTINGS_FILE" : "C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/CMakeFiles/DiscordClient_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "C:/Users/xande/Documents/DiscordClient/discordclient.cpp", "MU" ],
+		[ "C:/Users/xande/Documents/DiscordClient/main.cpp", "MU" ],
+		[ "C:/Users/xande/Documents/DiscordClient/mainwindow.cpp", "MU" ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,226 @@
+{
+	"BUILD_DIR" : "C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/deps/sleepy-discord/deps/cpr/cpr/cpr_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/deps/sleepy-discord/deps/cpr/cpr",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/cpr",
+	"CMAKE_EXECUTABLE" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe",
+	"CMAKE_SOURCE_DIR" : "C:/Users/xande/Documents/DiscordClient",
+	"DEP_FILE" : "C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/deps/sleepy-discord/deps/cpr/cpr/cpr_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "deps/sleepy-discord/deps/cpr/cpr/cpr_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/include/cpr/api.h",
+			"MU",
+			"R3JOVEDAFP/moc_api.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/include/cpr/auth.h",
+			"MU",
+			"R3JOVEDAFP/moc_auth.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/include/cpr/body.h",
+			"MU",
+			"R3JOVEDAFP/moc_body.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/include/cpr/cookies.h",
+			"MU",
+			"R3JOVEDAFP/moc_cookies.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/include/cpr/cpr.h",
+			"MU",
+			"R3JOVEDAFP/moc_cpr.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/include/cpr/cprtypes.h",
+			"MU",
+			"R3JOVEDAFP/moc_cprtypes.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/include/cpr/curlholder.h",
+			"MU",
+			"R3JOVEDAFP/moc_curlholder.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/include/cpr/digest.h",
+			"MU",
+			"R3JOVEDAFP/moc_digest.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/include/cpr/error.h",
+			"MU",
+			"R3JOVEDAFP/moc_error.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/include/cpr/limit_rate.h",
+			"MU",
+			"R3JOVEDAFP/moc_limit_rate.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/include/cpr/max_redirects.h",
+			"MU",
+			"R3JOVEDAFP/moc_max_redirects.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/include/cpr/multipart.h",
+			"MU",
+			"R3JOVEDAFP/moc_multipart.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/include/cpr/ntlm.h",
+			"MU",
+			"R3JOVEDAFP/moc_ntlm.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/include/cpr/parameters.h",
+			"MU",
+			"R3JOVEDAFP/moc_parameters.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/include/cpr/payload.h",
+			"MU",
+			"R3JOVEDAFP/moc_payload.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/include/cpr/proxies.h",
+			"MU",
+			"R3JOVEDAFP/moc_proxies.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/include/cpr/response.h",
+			"MU",
+			"R3JOVEDAFP/moc_response.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/include/cpr/session.h",
+			"MU",
+			"R3JOVEDAFP/moc_session.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/include/cpr/ssl_options.h",
+			"MU",
+			"R3JOVEDAFP/moc_ssl_options.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/include/cpr/timeout.h",
+			"MU",
+			"R3JOVEDAFP/moc_timeout.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/include/cpr/unix_socket.h",
+			"MU",
+			"R3JOVEDAFP/moc_unix_socket.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/include/cpr/util.h",
+			"MU",
+			"R3JOVEDAFP/moc_util.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/include/cpr/verbose.h",
+			"MU",
+			"R3JOVEDAFP/moc_verbose.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/deps/sleepy-discord/deps/cpr/cpr/cpr_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/deps/sleepy-discord/deps/cpr/cpr/cpr_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "CURL_STATICLIB", "USE_WINSSL", "WIN32", "cpr_EXPORTS" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/deps/sleepy-discord/deps/cpr/cpr",
+		"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/cpr",
+		"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/include",
+		"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/include",
+		"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-build/include/curl"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : true,
+	"MOC_PREDEFS_CMD" : [],
+	"MOC_PREDEFS_FILE" : "",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/deps/sleepy-discord/deps/cpr/cpr/CMakeFiles/cpr_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/Qt6MSVC/6.0.3/msvc2019_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "C:/Qt6MSVC/6.0.3/msvc2019_64/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 0,
+	"SETTINGS_FILE" : "C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/deps/sleepy-discord/deps/cpr/cpr/CMakeFiles/cpr_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/cpr/auth.cpp",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/cpr/cookies.cpp",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/cpr/cprtypes.cpp",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/cpr/curl_container.cpp",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/cpr/curlholder.cpp",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/cpr/error.cpp",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/cpr/multipart.cpp",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/cpr/parameters.cpp",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/cpr/payload.cpp",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/cpr/proxies.cpp",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/cpr/session.cpp",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/cpr/timeout.cpp",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/cpr/unix_socket.cpp",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/cpr/util.cpp",
+			"MU"
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

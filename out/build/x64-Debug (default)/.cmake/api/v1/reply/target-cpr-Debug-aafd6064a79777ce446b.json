@@ -1,0 +1,511 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "lib/cpr.dll"
+		},
+		{
+			"path" : "lib/cpr.lib"
+		},
+		{
+			"path" : "lib/cpr.pdb"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"install",
+			"target_link_libraries",
+			"add_definitions",
+			"cpr_option",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"deps/sleepy-discord/deps/cpr/cpr/CMakeLists.txt",
+			"deps/sleepy-discord/deps/cpr/CMakeLists.txt",
+			"deps/sleepy-discord/deps/cpr/include/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 3,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 30,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 22,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 40,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 23,
+				"parent" : 5
+			},
+			{
+				"file" : 2
+			},
+			{
+				"command" : 5,
+				"file" : 2,
+				"line" : 3,
+				"parent" : 7
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1  "
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 0,
+					"define" : "CURL_STATICLIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "USE_WINSSL"
+				},
+				{
+					"define" : "cpr_EXPORTS"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"path" : "C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/deps/sleepy-discord/deps/cpr/cpr"
+				},
+				{
+					"path" : "C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/cpr"
+				},
+				{
+					"backtrace" : 0,
+					"path" : "C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/deps/sleepy-discord/deps/cpr/cpr/cpr_autogen/include"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "C:/Users/xande/Documents/DiscordClient/deps/sleepy-discord/deps/cpr/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-build/include/curl"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "libcurl::@7349aeacaff41deceb36"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "cpr_autogen::@0bcff499c9643237ef88"
+		}
+	],
+	"id" : "cpr::@0bcff499c9643237ef88",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 2,
+				"path" : "lib"
+			},
+			{
+				"backtrace" : 2,
+				"path" : "bin"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "C:/Users/xande/Documents/DiscordClient/out/install/x64-Debug (default)"
+		}
+	},
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "/machine:x64 /debug /INCREMENTAL",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "..\\..\\..\\..\\..\\lib\\libcurl-d_imp.lib",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "winmm.lib",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "ws2_32.lib",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "advapi32.lib",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "crypt32.lib",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "cpr",
+	"nameOnDisk" : "cpr.dll",
+	"paths" : 
+	{
+		"build" : "deps/sleepy-discord/deps/cpr/cpr",
+		"source" : "deps/sleepy-discord/deps/cpr/cpr"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				38
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				39
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "out/build/x64-Debug (default)/deps/sleepy-discord/deps/cpr/cpr/cpr_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "deps/sleepy-discord/deps/cpr/cpr/auth.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "deps/sleepy-discord/deps/cpr/cpr/cookies.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "deps/sleepy-discord/deps/cpr/cpr/cprtypes.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "deps/sleepy-discord/deps/cpr/cpr/curl_container.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "deps/sleepy-discord/deps/cpr/cpr/curlholder.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "deps/sleepy-discord/deps/cpr/cpr/error.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "deps/sleepy-discord/deps/cpr/cpr/multipart.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "deps/sleepy-discord/deps/cpr/cpr/parameters.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "deps/sleepy-discord/deps/cpr/cpr/payload.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "deps/sleepy-discord/deps/cpr/cpr/proxies.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "deps/sleepy-discord/deps/cpr/cpr/session.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "deps/sleepy-discord/deps/cpr/cpr/timeout.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "deps/sleepy-discord/deps/cpr/cpr/unix_socket.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "deps/sleepy-discord/deps/cpr/cpr/util.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"path" : "deps/sleepy-discord/deps/cpr/include/cpr/api.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"path" : "deps/sleepy-discord/deps/cpr/include/cpr/auth.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"path" : "deps/sleepy-discord/deps/cpr/include/cpr/body.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"path" : "deps/sleepy-discord/deps/cpr/include/cpr/cookies.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"path" : "deps/sleepy-discord/deps/cpr/include/cpr/cpr.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"path" : "deps/sleepy-discord/deps/cpr/include/cpr/cprtypes.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"path" : "deps/sleepy-discord/deps/cpr/include/cpr/curlholder.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"path" : "deps/sleepy-discord/deps/cpr/include/cpr/digest.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"path" : "deps/sleepy-discord/deps/cpr/include/cpr/error.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"path" : "deps/sleepy-discord/deps/cpr/include/cpr/limit_rate.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"path" : "deps/sleepy-discord/deps/cpr/include/cpr/max_redirects.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"path" : "deps/sleepy-discord/deps/cpr/include/cpr/multipart.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"path" : "deps/sleepy-discord/deps/cpr/include/cpr/ntlm.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"path" : "deps/sleepy-discord/deps/cpr/include/cpr/parameters.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"path" : "deps/sleepy-discord/deps/cpr/include/cpr/payload.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"path" : "deps/sleepy-discord/deps/cpr/include/cpr/proxies.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"path" : "deps/sleepy-discord/deps/cpr/include/cpr/response.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"path" : "deps/sleepy-discord/deps/cpr/include/cpr/session.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"path" : "deps/sleepy-discord/deps/cpr/include/cpr/ssl_options.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"path" : "deps/sleepy-discord/deps/cpr/include/cpr/timeout.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"path" : "deps/sleepy-discord/deps/cpr/include/cpr/unix_socket.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"path" : "deps/sleepy-discord/deps/cpr/include/cpr/util.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"path" : "deps/sleepy-discord/deps/cpr/include/cpr/verbose.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "out/build/x64-Debug (default)/deps/sleepy-discord/deps/cpr/cpr/cpr_autogen/timestamp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "out/build/x64-Debug (default)/deps/sleepy-discord/deps/cpr/cpr/cpr_autogen/timestamp.rule",
+			"sourceGroupIndex" : 3
+		}
+	],
+	"type" : "SHARED_LIBRARY"
+}

@@ -1,0 +1,1287 @@
+{
+	"BUILD_DIR" : "C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-build/lib/libcurl_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-build/lib",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib",
+	"CMAKE_EXECUTABLE" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe",
+	"CMAKE_SOURCE_DIR" : "C:/Users/xande/Documents/DiscordClient",
+	"DEP_FILE" : "C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-build/lib/libcurl_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "_deps/curl-build/lib/libcurl_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-build/lib/curl_config.h",
+			"MU",
+			"EJRQKI7XPS/moc_curl_config.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/altsvc.h",
+			"MU",
+			"EWIEGA46WW/moc_altsvc.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/amigaos.h",
+			"MU",
+			"EWIEGA46WW/moc_amigaos.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/arpa_telnet.h",
+			"MU",
+			"EWIEGA46WW/moc_arpa_telnet.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/asyn.h",
+			"MU",
+			"EWIEGA46WW/moc_asyn.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/conncache.h",
+			"MU",
+			"EWIEGA46WW/moc_conncache.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/connect.h",
+			"MU",
+			"EWIEGA46WW/moc_connect.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/content_encoding.h",
+			"MU",
+			"EWIEGA46WW/moc_content_encoding.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/cookie.h",
+			"MU",
+			"EWIEGA46WW/moc_cookie.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_addrinfo.h",
+			"MU",
+			"EWIEGA46WW/moc_curl_addrinfo.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_base64.h",
+			"MU",
+			"EWIEGA46WW/moc_curl_base64.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_ctype.h",
+			"MU",
+			"EWIEGA46WW/moc_curl_ctype.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_des.h",
+			"MU",
+			"EWIEGA46WW/moc_curl_des.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_endian.h",
+			"MU",
+			"EWIEGA46WW/moc_curl_endian.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_fnmatch.h",
+			"MU",
+			"EWIEGA46WW/moc_curl_fnmatch.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_get_line.h",
+			"MU",
+			"EWIEGA46WW/moc_curl_get_line.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_gethostname.h",
+			"MU",
+			"EWIEGA46WW/moc_curl_gethostname.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_gssapi.h",
+			"MU",
+			"EWIEGA46WW/moc_curl_gssapi.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_hmac.h",
+			"MU",
+			"EWIEGA46WW/moc_curl_hmac.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_ldap.h",
+			"MU",
+			"EWIEGA46WW/moc_curl_ldap.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_md4.h",
+			"MU",
+			"EWIEGA46WW/moc_curl_md4.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_md5.h",
+			"MU",
+			"EWIEGA46WW/moc_curl_md5.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_memory.h",
+			"MU",
+			"EWIEGA46WW/moc_curl_memory.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_memrchr.h",
+			"MU",
+			"EWIEGA46WW/moc_curl_memrchr.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_multibyte.h",
+			"MU",
+			"EWIEGA46WW/moc_curl_multibyte.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_ntlm_core.h",
+			"MU",
+			"EWIEGA46WW/moc_curl_ntlm_core.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_ntlm_wb.h",
+			"MU",
+			"EWIEGA46WW/moc_curl_ntlm_wb.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_path.h",
+			"MU",
+			"EWIEGA46WW/moc_curl_path.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_printf.h",
+			"MU",
+			"EWIEGA46WW/moc_curl_printf.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_range.h",
+			"MU",
+			"EWIEGA46WW/moc_curl_range.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_rtmp.h",
+			"MU",
+			"EWIEGA46WW/moc_curl_rtmp.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_sasl.h",
+			"MU",
+			"EWIEGA46WW/moc_curl_sasl.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_sec.h",
+			"MU",
+			"EWIEGA46WW/moc_curl_sec.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_setup.h",
+			"MU",
+			"EWIEGA46WW/moc_curl_setup.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_setup_once.h",
+			"MU",
+			"EWIEGA46WW/moc_curl_setup_once.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_sha256.h",
+			"MU",
+			"EWIEGA46WW/moc_curl_sha256.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_sspi.h",
+			"MU",
+			"EWIEGA46WW/moc_curl_sspi.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_threads.h",
+			"MU",
+			"EWIEGA46WW/moc_curl_threads.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curlx.h",
+			"MU",
+			"EWIEGA46WW/moc_curlx.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/dict.h",
+			"MU",
+			"EWIEGA46WW/moc_dict.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/doh.h",
+			"MU",
+			"EWIEGA46WW/moc_doh.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/dotdot.h",
+			"MU",
+			"EWIEGA46WW/moc_dotdot.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/easyif.h",
+			"MU",
+			"EWIEGA46WW/moc_easyif.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/escape.h",
+			"MU",
+			"EWIEGA46WW/moc_escape.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/file.h",
+			"MU",
+			"EWIEGA46WW/moc_file.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/fileinfo.h",
+			"MU",
+			"EWIEGA46WW/moc_fileinfo.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/formdata.h",
+			"MU",
+			"EWIEGA46WW/moc_formdata.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/ftp.h",
+			"MU",
+			"EWIEGA46WW/moc_ftp.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/ftplistparser.h",
+			"MU",
+			"EWIEGA46WW/moc_ftplistparser.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/getinfo.h",
+			"MU",
+			"EWIEGA46WW/moc_getinfo.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/gopher.h",
+			"MU",
+			"EWIEGA46WW/moc_gopher.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/hash.h",
+			"MU",
+			"EWIEGA46WW/moc_hash.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/hostcheck.h",
+			"MU",
+			"EWIEGA46WW/moc_hostcheck.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/hostip.h",
+			"MU",
+			"EWIEGA46WW/moc_hostip.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/http.h",
+			"MU",
+			"EWIEGA46WW/moc_http.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/http2.h",
+			"MU",
+			"EWIEGA46WW/moc_http2.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/http_chunks.h",
+			"MU",
+			"EWIEGA46WW/moc_http_chunks.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/http_digest.h",
+			"MU",
+			"EWIEGA46WW/moc_http_digest.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/http_negotiate.h",
+			"MU",
+			"EWIEGA46WW/moc_http_negotiate.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/http_ntlm.h",
+			"MU",
+			"EWIEGA46WW/moc_http_ntlm.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/http_proxy.h",
+			"MU",
+			"EWIEGA46WW/moc_http_proxy.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/if2ip.h",
+			"MU",
+			"EWIEGA46WW/moc_if2ip.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/imap.h",
+			"MU",
+			"EWIEGA46WW/moc_imap.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/inet_ntop.h",
+			"MU",
+			"EWIEGA46WW/moc_inet_ntop.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/inet_pton.h",
+			"MU",
+			"EWIEGA46WW/moc_inet_pton.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/llist.h",
+			"MU",
+			"EWIEGA46WW/moc_llist.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/memdebug.h",
+			"MU",
+			"EWIEGA46WW/moc_memdebug.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/mime.h",
+			"MU",
+			"EWIEGA46WW/moc_mime.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/multihandle.h",
+			"MU",
+			"EWIEGA46WW/moc_multihandle.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/multiif.h",
+			"MU",
+			"EWIEGA46WW/moc_multiif.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/netrc.h",
+			"MU",
+			"EWIEGA46WW/moc_netrc.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/non-ascii.h",
+			"MU",
+			"EWIEGA46WW/moc_non-ascii.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/nonblock.h",
+			"MU",
+			"EWIEGA46WW/moc_nonblock.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/parsedate.h",
+			"MU",
+			"EWIEGA46WW/moc_parsedate.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/pingpong.h",
+			"MU",
+			"EWIEGA46WW/moc_pingpong.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/pop3.h",
+			"MU",
+			"EWIEGA46WW/moc_pop3.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/progress.h",
+			"MU",
+			"EWIEGA46WW/moc_progress.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/psl.h",
+			"MU",
+			"EWIEGA46WW/moc_psl.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/quic.h",
+			"MU",
+			"EWIEGA46WW/moc_quic.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/rand.h",
+			"MU",
+			"EWIEGA46WW/moc_rand.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/rename.h",
+			"MU",
+			"EWIEGA46WW/moc_rename.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/rtsp.h",
+			"MU",
+			"EWIEGA46WW/moc_rtsp.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/select.h",
+			"MU",
+			"EWIEGA46WW/moc_select.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/sendf.h",
+			"MU",
+			"EWIEGA46WW/moc_sendf.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/setopt.h",
+			"MU",
+			"EWIEGA46WW/moc_setopt.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/setup-vms.h",
+			"MU",
+			"EWIEGA46WW/moc_setup-vms.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/share.h",
+			"MU",
+			"EWIEGA46WW/moc_share.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/sigpipe.h",
+			"MU",
+			"EWIEGA46WW/moc_sigpipe.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/slist.h",
+			"MU",
+			"EWIEGA46WW/moc_slist.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/smb.h",
+			"MU",
+			"EWIEGA46WW/moc_smb.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/smtp.h",
+			"MU",
+			"EWIEGA46WW/moc_smtp.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/sockaddr.h",
+			"MU",
+			"EWIEGA46WW/moc_sockaddr.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/socketpair.h",
+			"MU",
+			"EWIEGA46WW/moc_socketpair.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/socks.h",
+			"MU",
+			"EWIEGA46WW/moc_socks.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/speedcheck.h",
+			"MU",
+			"EWIEGA46WW/moc_speedcheck.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/splay.h",
+			"MU",
+			"EWIEGA46WW/moc_splay.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/strcase.h",
+			"MU",
+			"EWIEGA46WW/moc_strcase.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/strdup.h",
+			"MU",
+			"EWIEGA46WW/moc_strdup.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/strerror.h",
+			"MU",
+			"EWIEGA46WW/moc_strerror.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/strtok.h",
+			"MU",
+			"EWIEGA46WW/moc_strtok.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/strtoofft.h",
+			"MU",
+			"EWIEGA46WW/moc_strtoofft.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/system_win32.h",
+			"MU",
+			"EWIEGA46WW/moc_system_win32.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/telnet.h",
+			"MU",
+			"EWIEGA46WW/moc_telnet.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/tftp.h",
+			"MU",
+			"EWIEGA46WW/moc_tftp.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/timeval.h",
+			"MU",
+			"EWIEGA46WW/moc_timeval.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/transfer.h",
+			"MU",
+			"EWIEGA46WW/moc_transfer.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/url.h",
+			"MU",
+			"EWIEGA46WW/moc_url.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/urlapi-int.h",
+			"MU",
+			"EWIEGA46WW/moc_urlapi-int.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/urldata.h",
+			"MU",
+			"EWIEGA46WW/moc_urldata.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vauth/digest.h",
+			"MU",
+			"63IR3Q7B67/moc_digest.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vauth/ntlm.h",
+			"MU",
+			"63IR3Q7B67/moc_ntlm.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vauth/vauth.h",
+			"MU",
+			"63IR3Q7B67/moc_vauth.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vquic/ngtcp2.h",
+			"MU",
+			"OHKLD74AUJ/moc_ngtcp2.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vquic/quiche.h",
+			"MU",
+			"OHKLD74AUJ/moc_quiche.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vssh/ssh.h",
+			"MU",
+			"Q37VRC42IQ/moc_ssh.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vtls/bearssl.h",
+			"MU",
+			"TWR7BFFS3B/moc_bearssl.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vtls/gskit.h",
+			"MU",
+			"TWR7BFFS3B/moc_gskit.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vtls/gtls.h",
+			"MU",
+			"TWR7BFFS3B/moc_gtls.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vtls/mbedtls.h",
+			"MU",
+			"TWR7BFFS3B/moc_mbedtls.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vtls/mbedtls_threadlock.h",
+			"MU",
+			"TWR7BFFS3B/moc_mbedtls_threadlock.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vtls/mesalink.h",
+			"MU",
+			"TWR7BFFS3B/moc_mesalink.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vtls/nssg.h",
+			"MU",
+			"TWR7BFFS3B/moc_nssg.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vtls/openssl.h",
+			"MU",
+			"TWR7BFFS3B/moc_openssl.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vtls/schannel.h",
+			"MU",
+			"TWR7BFFS3B/moc_schannel.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vtls/sectransp.h",
+			"MU",
+			"TWR7BFFS3B/moc_sectransp.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vtls/vtls.h",
+			"MU",
+			"TWR7BFFS3B/moc_vtls.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vtls/wolfssl.h",
+			"MU",
+			"TWR7BFFS3B/moc_wolfssl.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/warnless.h",
+			"MU",
+			"EWIEGA46WW/moc_warnless.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/wildcard.h",
+			"MU",
+			"EWIEGA46WW/moc_wildcard.cpp"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/x509asn1.h",
+			"MU",
+			"EWIEGA46WW/moc_x509asn1.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-build/lib/libcurl_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-build/lib/libcurl_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"BUILDING_LIBCURL",
+		"CURL_HIDDEN_SYMBOLS",
+		"HAVE_CONFIG_H",
+		"USE_WINSSL",
+		"WIN32",
+		"_CRT_NONSTDC_NO_DEPRECATE",
+		"_CRT_SECURE_NO_DEPRECATE",
+		"_USRDLL",
+		"_WIN32_WINNT=0x0600",
+		"libcurl_EXPORTS"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-build/lib",
+		"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib",
+		"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/include",
+		"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-build/include",
+		"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src",
+		"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/include",
+		"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-build"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : true,
+	"MOC_PREDEFS_CMD" : [],
+	"MOC_PREDEFS_FILE" : "",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-build/lib/CMakeFiles/libcurl_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/Qt6MSVC/6.0.3/msvc2019_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "C:/Qt6MSVC/6.0.3/msvc2019_64/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 0,
+	"SETTINGS_FILE" : "C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-build/lib/CMakeFiles/libcurl_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/altsvc.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/amigaos.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/asyn-ares.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/asyn-thread.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/base64.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/conncache.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/connect.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/content_encoding.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/cookie.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_addrinfo.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_ctype.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_des.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_endian.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_fnmatch.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_get_line.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_gethostname.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_gssapi.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_memrchr.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_multibyte.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_ntlm_core.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_ntlm_wb.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_path.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_range.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_rtmp.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_sasl.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_sspi.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/curl_threads.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/dict.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/doh.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/dotdot.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/easy.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/escape.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/file.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/fileinfo.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/formdata.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/ftp.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/ftplistparser.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/getenv.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/getinfo.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/gopher.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/hash.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/hmac.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/hostasyn.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/hostcheck.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/hostip.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/hostip4.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/hostip6.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/hostsyn.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/http.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/http2.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/http_chunks.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/http_digest.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/http_negotiate.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/http_ntlm.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/http_proxy.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/idn_win32.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/if2ip.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/imap.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/inet_ntop.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/inet_pton.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/krb5.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/ldap.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/llist.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/md4.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/md5.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/memdebug.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/mime.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/mprintf.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/multi.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/netrc.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/non-ascii.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/nonblock.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/openldap.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/parsedate.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/pingpong.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/pop3.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/progress.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/psl.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/rand.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/rename.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/rtsp.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/security.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/select.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/sendf.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/setopt.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/sha256.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/share.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/slist.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/smb.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/smtp.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/socketpair.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/socks.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/socks_gssapi.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/socks_sspi.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/speedcheck.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/splay.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/strcase.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/strdup.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/strerror.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/strtok.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/strtoofft.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/system_win32.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/telnet.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/tftp.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/timeval.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/transfer.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/url.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/urlapi.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vauth/cleartext.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vauth/cram.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vauth/digest.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vauth/digest_sspi.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vauth/krb5_gssapi.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vauth/krb5_sspi.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vauth/ntlm.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vauth/ntlm_sspi.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vauth/oauth2.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vauth/spnego_gssapi.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vauth/spnego_sspi.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vauth/vauth.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/version.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vquic/ngtcp2.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vquic/quiche.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vssh/libssh.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vssh/libssh2.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vssh/wolfssh.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vtls/bearssl.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vtls/gskit.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vtls/gtls.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vtls/mbedtls.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vtls/mbedtls_threadlock.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vtls/mesalink.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vtls/nss.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vtls/openssl.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vtls/schannel.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vtls/schannel_verify.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vtls/sectransp.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vtls/vtls.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/vtls/wolfssl.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/warnless.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/wildcard.c",
+			"MU"
+		],
+		[
+			"C:/Users/xande/Documents/DiscordClient/out/build/x64-Debug (default)/_deps/curl-src/lib/x509asn1.c",
+			"MU"
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}
