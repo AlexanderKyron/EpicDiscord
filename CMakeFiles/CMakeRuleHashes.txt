@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+cbe8f3b8da613c7941ac4b2b3b95b203 CMakeFiles/DiscordClient_autogen

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/DiscordClient.dir/DiscordClient_autogen/mocs_compilation.cpp.o CMakeFiles/DiscordClient.dir/main.cpp.o CMakeFiles/DiscordClient.dir/mainwindow.cpp.o CMakeFiles/DiscordClient.dir/discordclient.cpp.o -o DiscordClient  /usr/lib/libQt5Widgets.so.5.15.2 /usr/lib/libQt5Gui.so.5.15.2 /usr/lib/libQt5Core.so.5.15.2 

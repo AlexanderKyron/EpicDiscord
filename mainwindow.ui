@@ -270,7 +270,7 @@ background-color:rgb(90, 90, 90);</string>
      <x>0</x>
      <y>0</y>
      <width>1169</width>
-     <height>21</height>
+     <height>30</height>
     </rect>
    </property>
    <property name="styleSheet">
@@ -280,6 +280,7 @@ background-color:rgb(90, 90, 90);</string>
     <property name="title">
      <string>File</string>
     </property>
+    <addaction name="actionConnection_Manager"/>
     <addaction name="actionExit"/>
    </widget>
    <widget class="QMenu" name="menuTools">
@@ -525,6 +526,11 @@ background-color:rgb(90, 90, 90)</string>
   <action name="actionRecorder">
    <property name="text">
     <string>Recorder</string>
+   </property>
+  </action>
+  <action name="actionConnection_Manager">
+   <property name="text">
+    <string>Connection Manager...</string>
    </property>
   </action>
  </widget>

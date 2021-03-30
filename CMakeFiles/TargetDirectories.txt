@@ -1,0 +1,4 @@
+/home/alexk/Documents/EpicDiscord/CMakeFiles/rebuild_cache.dir
+/home/alexk/Documents/EpicDiscord/CMakeFiles/edit_cache.dir
+/home/alexk/Documents/EpicDiscord/CMakeFiles/DiscordClient.dir
+/home/alexk/Documents/EpicDiscord/CMakeFiles/DiscordClient_autogen.dir

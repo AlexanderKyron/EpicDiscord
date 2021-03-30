@@ -1,17 +1,14 @@
 cmake_minimum_required(VERSION 3.8)
 
 project(DiscordClient LANGUAGES CXX)
-#set(QT_DIR "C:/Qt6MSVC/6.0.3/msvc2019_64")
-#set(CMAKE_PREFIX_PATH "C:/Qt6MSVC/6.0.3/msvc2019_64")
 
-#set(OPENSSL_ROOT_DIR "C:/dev/vcpkg/installed/x64-windows")
-#set(OPENSSL_INCLUDE_DIR "C:/dev/vcpkg/installed/x64-windows/include")
-#set(OPENSSL_LIBRARIES "C:/dev/vcpkg/installed/x64-windows/lib")
 set(CMAKE_INCLUDE_CURRENT_DIR ON)
+
 
 set(CMAKE_AUTOUIC ON)
 set(CMAKE_AUTOMOC ON)
-set(CMAKE_AUTORCC ON)
+
+set(CMAKE_INCLUDE_CURRENT_DIR ON)
 
 set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
@@ -36,13 +33,28 @@ set(PROJECT_SOURCES
         mainwindow.cpp
         mainwindow.h
         mainwindow.ui
+        accountmanager.ui
+        chatwidget.ui
+        connectiondialog.ui
+        linkwarning.ui
         discordclient.cpp
         discordclient.h
+        accountmanager.cpp
+        accountmanager.h
+        connectiondialog.cpp
+        connectiondialog.h
 )
-
+#qt_wrap_ui(UIS_HDRS
+#    accountmanager.ui
+#    mainwindow.ui
+#    chatwidget.ui
+#    connectiondialog.ui
+#    linkwarning.ui
+#    )
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
     qt_add_executable(DiscordClient
         ${PROJECT_SOURCES}
+ #       ${UIS_HDRS}
     )
 else()
     if(ANDROID)
@@ -52,13 +64,14 @@ else()
     else()
         add_executable(DiscordClient
             ${PROJECT_SOURCES}
+ #           ${UIS_HDRS}
         )
     endif()
 endif()
 
 
-#add_subdirectory(deps/sleepy-discord)
+add_subdirectory(deps/sleepy-discord)
 
-#target_link_libraries(DiscordClient PRIVATE sleepy-discord)
+target_link_libraries(DiscordClient PRIVATE sleepy-discord)
 
 target_link_libraries(DiscordClient PRIVATE Qt${QT_VERSION_MAJOR}::Widgets)
