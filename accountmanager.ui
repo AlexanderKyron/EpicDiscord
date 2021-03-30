@@ -238,16 +238,6 @@ color:white;</string>
       </widget>
      </item>
      <item>
-      <widget class="QPushButton" name="EditButton">
-       <property name="styleSheet">
-        <string notr="true"/>
-       </property>
-       <property name="text">
-        <string>Edit</string>
-       </property>
-      </widget>
-     </item>
-     <item>
       <widget class="QPushButton" name="DeleteButton">
        <property name="styleSheet">
         <string notr="true"/>
@@ -292,7 +282,7 @@ color:white;</string>
    <item row="1" column="0">
     <widget class="QLabel" name="label">
      <property name="text">
-      <string>Accounts</string>
+      <string>Accounts </string>
      </property>
     </widget>
    </item>

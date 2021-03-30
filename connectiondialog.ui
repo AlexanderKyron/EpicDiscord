@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
- <class>Dialog</class>
- <widget class="QDialog" name="Dialog">
+ <class>TokenDialog</class>
+ <widget class="QDialog" name="TokenDialog">
   <property name="geometry">
    <rect>
     <x>0</x>
     <y>0</y>
     <width>533</width>
-    <height>108</height>
+    <height>109</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -144,7 +144,7 @@ color:white;</string>
   <connection>
    <sender>buttonBox</sender>
    <signal>accepted()</signal>
-   <receiver>Dialog</receiver>
+   <receiver>TokenDialog</receiver>
    <slot>accept()</slot>
    <hints>
     <hint type="sourcelabel">
@@ -160,7 +160,7 @@ color:white;</string>
   <connection>
    <sender>buttonBox</sender>
    <signal>rejected()</signal>
-   <receiver>Dialog</receiver>
+   <receiver>TokenDialog</receiver>
    <slot>reject()</slot>
    <hints>
     <hint type="sourcelabel">

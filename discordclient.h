@@ -2,13 +2,14 @@
 #define DISCORDCLIENT_H
 #include <string>
 #include <QJsonObject>
-class DiscordClient
+#include <sleepy_discord/sleepy_discord.h>
+class DiscordClient  : public SleepyDiscord::DiscordClient
 {
 public:
+    using SleepyDiscord::DiscordClient::DiscordClient;
     DiscordClient();
- //   ~DiscordClient();
+    ~DiscordClient();
 public:
-    bool Connect(std::string token, std::string &auth);
   //  bool SendMessage(std::string message);
   //  QJsonObject ReceiveMessage();
 };

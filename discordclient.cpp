@@ -5,6 +5,6 @@ DiscordClient::DiscordClient()
 
 }
 
-bool DiscordClient::Connect(std::string token, std::string &auth) {
-    return false;
+DiscordClient::~DiscordClient() {
+    std::cout << "Destroyed discordclient" << std::endl;
 }

@@ -43,6 +43,8 @@ set(PROJECT_SOURCES
         accountmanager.h
         connectiondialog.cpp
         connectiondialog.h
+        tokendialog.cpp
+        tokendialog.h
 )
 #qt_wrap_ui(UIS_HDRS
 #    accountmanager.ui

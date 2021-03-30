@@ -12,9 +12,11 @@ public:
     AccountManager(QWidget *parent = nullptr);
     ~AccountManager();
 private slots:
-    void on_pushButton_2_clicked();
+
+    void on_AddButton_clicked();
 
 private:
+    QWidget* m_parent;
     Ui::AccountManagerDialog *ui;
 };
 
