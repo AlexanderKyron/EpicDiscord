@@ -223,6 +223,9 @@ color:white;</string>
       <string notr="true">background-color:rgb(58, 58, 58);
 color:white;</string>
      </property>
+     <property name="selectionBehavior">
+      <enum>QAbstractItemView::SelectRows</enum>
+     </property>
     </widget>
    </item>
    <item row="2" column="1">

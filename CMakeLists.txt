@@ -25,8 +25,8 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 #            ${CMAKE_CURRENT_SOURCE_DIR}/path/to/libssl.so)
 #    endif()
 #endif()
-find_package(QT NAMES Qt6 Qt5 COMPONENTS Widgets REQUIRED)
-find_package(Qt${QT_VERSION_MAJOR} COMPONENTS Widgets REQUIRED)
+find_package(QT NAMES Qt6 Qt5 COMPONENTS Widgets Sql REQUIRED)
+find_package(Qt${QT_VERSION_MAJOR} COMPONENTS Widgets Sql REQUIRED)
 
 set(PROJECT_SOURCES
         main.cpp
@@ -77,3 +77,4 @@ add_subdirectory(deps/sleepy-discord)
 target_link_libraries(DiscordClient PRIVATE sleepy-discord)
 
 target_link_libraries(DiscordClient PRIVATE Qt${QT_VERSION_MAJOR}::Widgets)
+target_link_libraries(DiscordClient PRIVATE Qt${QT_VERSION_MAJOR}::Sql)
