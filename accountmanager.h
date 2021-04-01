@@ -19,6 +19,8 @@ private slots:
 
     void on_DeleteButton_clicked();
 
+    void on_ConnectButton_clicked();
+
 private:
     QWidget* m_parent;
     Ui::AccountManagerDialog *ui;
@@ -26,6 +28,7 @@ private:
     QSqlTableModel *m_model;
 public:
     void UpdateModel();
+    void ConnectClient(std::string token, bool isBot);
 };
 
 #endif // ACCOUNTMANAGER_H

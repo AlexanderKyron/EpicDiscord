@@ -1,10 +1,14 @@
 #include "accountmanager.h"
+#include "discordclient.h"
 #include "tokendialog.h"
 #include <iostream>
+#include <thread>
 #include "ui_accountmanager.h"
+#include "mainwindow.h"
 #include "QtSql/qsqltablemodel.h"
 #include "QtSql/qsqlrecord.h"
 #include "QtSql/qsqlquery.h"
+#include "qthread.h"
 AccountManager::AccountManager(QWidget *parent)
     : QDialog(parent)
     , ui(new Ui::AccountManagerDialog)
@@ -58,4 +62,24 @@ void AccountManager::on_DeleteButton_clicked()
          }
         UpdateModel();
     }
+}
+
+void AccountManager::on_ConnectButton_clicked()
+{
+    if(m_model) {
+        QModelIndexList indexList = ui->tableView->selectionModel()->selectedRows();
+        QModelIndex index = indexList.at(0);
+        QString token = m_model->data(m_model->index(index.row(),2)).toString();
+        bool isBot = m_model->data(m_model->index(index.row(),3)).toBool();
+        std::thread* t = new std::thread(&AccountManager::ConnectClient, this, token.toStdString(), isBot);
+    }
+}
+
+void AccountManager::ConnectClient(std::string token, bool isBot) {
+    std::cout<<"Created client thread"<<std::endl;
+    MainWindow* mainWindow = (MainWindow*)m_parent;
+    DiscordClient* client = DiscordClient::CreateClient(token, isBot, mainWindow);
+    client->setIntents(SleepyDiscord::Intent::SERVER_MESSAGES);
+    std::cout<<"running client"<<std::endl;
+    client->run();
 }
